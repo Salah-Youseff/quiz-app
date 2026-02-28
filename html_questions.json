@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Why we use <br> tag in HTML?",
+        "options": [
+            "To insert a line break",
+            "To create a new paragraph",
+            "To add a horizontal line",
+            "To make text bold"
+        ],
+        "answer": "To insert a line break"
+    },
+    {
+        "title": "Which tag is used to create a hyperlink in HTML?",
+        "options": [
+            "<a>",
+            "<link>",
+            "<hyperlink>",
+            "<href>"
+        ],
+        "answer": "<a>"
+    },
+    {
+        "title": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "Home Tool Markup Language",
+            "Hyperlinks and Text Markup Language",
+            "Hyperlinking Text Marking Language"
+        ],
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "title": "Which tag is used to define an unordered list in HTML?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "answer": "<ul>"
+    },
+    {
+        "title": "What is the correct way to create a checkbox in HTML?",
+        "options": [
+            "<input type='checkbox'>",
+            "<checkbox>",
+            "<input type='check'>",
+            "<check>"
+        ],
+        "answer": "<input type='checkbox'>"
+    },
+    {
+        "title": "What is the correct way to create a radio button in HTML?",
+        "options": [
+            "<input type='radio'>",
+            "<radio>",
+            "<input type='button'>",
+            "<button>"
+        ],
+        "answer": "<input type='radio'>"
+    },
+    {
+        "title": "Which tag is used to define a table in HTML?",
+        "options": [
+            "<table>",
+            "<tab>",
+            "<tr>",
+            "<td>"
+        ],
+        "answer": "<table>"
+    },
+    {
+        "title": "What is the correct way to create a dropdown list in HTML?",
+        "options": [
+            "<select>",
+            "<dropdown>",
+            "<input type='dropdown'>",
+            "<list>"
+        ],
+        "answer": "<select>"
+    },
+    {
+        "title": "Which tag is used to define a paragraph in HTML?",
+        "options": [
+            "<p>",
+            "<paragraph>",
+            "<text>",
+            "<para>"
+        ],
+        "answer": "<p>"
+    },
+    {
+        "title": "What is the correct way to create a text input field in HTML?",
+        "options": [
+            "<input type='text'>",
+            "<text>",
+            "<input type='textfield'>",
+            "<textfield>"
+        ],
+        "answer": "<input type='text'>"
+    }
+]
