@@ -160,21 +160,18 @@ body {
     border-radius: 20px;
     animation-name: countDownAnimation;
     animation-timing-function: linear;
-    animation-duration: .9s;
+    animation-duration: .7s;
     animation-iteration-count: infinite;
 }
 @keyframes countDownAnimation {
     0% {
         background-color: #ffd8d8;
-        color: black;
     }
     50% {
-        background-color: #e46969;
-        color: white;
+        background-color: #f8a1a1;
     }
     100% {
         background-color: #ffd8d8;
-        color: black;
     }
 }
 .restart-button {
