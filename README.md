@@ -46,6 +46,7 @@ The application follows a structured lifecycle to ensure data integrity:
 ├── script.js        # Logic Layer (Async operations & Engine)
 ├── questions.json   # Data Layer (External Question Bank)
 └── README.md        # Documentation
+```
 
 ## 📬 Contact
 Feel free to reach out with any questions or feedback:
